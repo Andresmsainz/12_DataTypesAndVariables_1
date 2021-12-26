@@ -1,7 +1,6 @@
 C:\SRC\CSharp\12_DataTypesAndVariables_1\12_DataTypesAndVariables_1\bin\Debug\12_DataTypesAndVariables_1.exe.config
 C:\SRC\CSharp\12_DataTypesAndVariables_1\12_DataTypesAndVariables_1\bin\Debug\12_DataTypesAndVariables_1.exe
 C:\SRC\CSharp\12_DataTypesAndVariables_1\12_DataTypesAndVariables_1\bin\Debug\12_DataTypesAndVariables_1.pdb
-C:\SRC\CSharp\12_DataTypesAndVariables_1\12_DataTypesAndVariables_1\obj\Debug\12_DataTypesAndVariables_1.csprojAssemblyReference.cache
 C:\SRC\CSharp\12_DataTypesAndVariables_1\12_DataTypesAndVariables_1\obj\Debug\12_DataTypesAndVariables_1.csproj.CoreCompileInputs.cache
 C:\SRC\CSharp\12_DataTypesAndVariables_1\12_DataTypesAndVariables_1\obj\Debug\12_DataTypesAndVariables_1.exe
 C:\SRC\CSharp\12_DataTypesAndVariables_1\12_DataTypesAndVariables_1\obj\Debug\12_DataTypesAndVariables_1.pdb

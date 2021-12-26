@@ -27,6 +27,14 @@ namespace _12_DataTypesAndVariables_1
             Console.WriteLine("Double variable = " + dbl_num);
             Console.WriteLine("Float variable = " + flt_num);
             Console.WriteLine("Decimal variable = " + dcml_num);
+
+            string firstName, lastName, house;
+            firstName = "Jon";
+            lastName = "Snow";
+            house = "Stark";
+
+            Console.WriteLine("You know nothing... " + firstName + " " + lastName + " of " + house);
+
         }
     }
 }
